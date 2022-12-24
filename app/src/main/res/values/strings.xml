@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JetHeroes</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_hero">Cari pahlawanmu</string>
+    <string name="detail_page">Detail Page</string>
+    <string name="about_page">About Page</string>
+    <string name="back_to_list_page">Back to List Page</string>
+    <string name="name">Emil Jamel Mahmuda</string>
+    <string name="email">memiljamel@gmail.com</string>
+</resources>
